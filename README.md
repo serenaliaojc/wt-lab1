@@ -1,6 +1,6 @@
 # Lab 1
 
-## Readme Branch
+## Index Branch
 
 ### Even smaller title
 
