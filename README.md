@@ -1,6 +1,6 @@
 # Lab 1
 
-## Index Branch
+## Master Branch
 
 ### Even smaller title
 
